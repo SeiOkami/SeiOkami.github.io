@@ -1,3 +1,7 @@
+#temp
+*.jpg~
+
+
 # Bundler cache
 .bundle
 vendor
