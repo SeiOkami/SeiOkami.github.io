@@ -4,7 +4,7 @@ date: 2024-01-16 10:30:00 +/-TTTT
 description: Статья на основе митапа по видами типизации кода в 1С
 media_subpath: /assets/posts/2024-01-16-strict-typing-ones-article/
 categories: [Статьи]
-tags: [1С, Статьи]
+tags: [1С, Статьи, Желтый Чайник 1С]
 image:
   path: 01.png
 ---

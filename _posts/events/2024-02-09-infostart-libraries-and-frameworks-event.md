@@ -3,7 +3,7 @@ title: Библиотеки и фреймворки на 1С и всё, что �
 date: 2024-02-09 15:00:00 +/-TTTT
 media_subpath: /assets/posts/2024-02-09-infostart-libraries-and-frameworks-event/
 categories: [Ивенты]
-tags: [1С, Видео, Конференции]
+tags: [1С, Желтый Чайник 1С, Видео, Ивенты]
 image:
   path: cover.jpg
   in_post: false

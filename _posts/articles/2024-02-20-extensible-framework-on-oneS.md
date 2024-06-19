@@ -3,7 +3,7 @@ title: Расширяемый фреймворк на 1С, или Нюансы �
 date: 2024-02-20 16:00:00 +/-TTTT
 media_subpath: /assets/posts/2024-02-20-extensible-framework-on-oneS/
 categories: [Статьи]
-tags: [1С, Статьи]
+tags: [1С, Статьи, Желтый Чайник 1С]
 image:
   path: cover.jpg
 ---

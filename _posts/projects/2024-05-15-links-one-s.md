@@ -4,7 +4,7 @@ description: Статический сайт со списком всех кан
 date: 2024-05-15 15:00:00 +/-TTTT
 media_subpath: /assets/posts/project-links-one-s/
 categories: [Проекты]
-tags: [1С, Проект, Telegram, JavaScript, CSharp, HTML, CSS]
+tags: [1С, Проект, Желтый Чайник 1С, Telegram, JavaScript, CSharp, HTML, CSS]
 image:
   path: cover.jpg
 ---
