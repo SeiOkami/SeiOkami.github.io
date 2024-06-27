@@ -2,11 +2,19 @@
 title: Хочу универсально! Часть 2
 date: 2019-09-25 10:00:00 +/-TTTT
 description: Продолжение истории про то, как начинающий разработчик Вася проходит путь от простой задачки к созданию своего механизма.
-media_subpath: /assets/posts/2019-09-25-I-want-to-be-universal2/
+media_subpath: /assets/posts/articles/2019-09-25-I-want-to-be-universal2/
 categories: [Статьи]
 tags: [1С, Статьи, Желтый Чайник 1С]
 image:
   path: cover.png
+links:
+  top: true
+  bottom: true
+  values:
+  - name: Статья на Инфостарт
+    url: https://infostart.ru/1c/articles/1127249/?ref=1159
+  - name: Пост в Telegram
+    url: https://t.me/JuniorOneS/32
 ---
 
 [Здесь можно прочитать первую часть статьи]({% link _posts/articles/2019-09-02-I-want-to-be-universal.md %})

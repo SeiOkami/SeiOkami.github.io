@@ -2,7 +2,7 @@
 title: ПШЕ git translator
 description: Статический сайт со списком всех каналов, чатов и т.д. по теме 1С в Telegram
 date: 2024-03-17 15:00:00 +/-TTTT
-media_subpath: /assets/posts/project-git-translator/
+media_subpath: /assets/posts/projects/git-translator/
 categories: [Проекты]
 tags: [1С, Проект, Желтый Чайник 1С, git, CSharp]
 image:

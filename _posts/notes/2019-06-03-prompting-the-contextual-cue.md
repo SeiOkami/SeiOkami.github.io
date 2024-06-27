@@ -2,7 +2,7 @@
 title: Подсказываем контекстной подсказке
 date: 2019-06-03 18:28:00 +/-TTTT
 description: Как конфигуратору подсказать переменные типов
-media_subpath: /assets/posts/2019-06-03-prompting-the-contextual-cue/
+media_subpath: /assets/posts/notes/2019-06-03-prompting-the-contextual-cue/
 categories: [Заметки]
 tags: [1С, Заметки, Желтый Чайник 1С]
 image:

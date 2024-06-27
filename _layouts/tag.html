@@ -1,0 +1,17 @@
+---
+layout: page
+# The layout for Tag page
+---
+
+{% include lang.html %}
+
+<div id="page-tag">
+  <h1 class="ps-lg-2">
+    <i class="fa fa-tag fa-fw text-muted"></i>
+    {{ page.title }}
+    <span class="lead text-muted ps-2">{{ page.posts | size }}</span>
+  </h1>
+
+  {% include post_list.html %}
+
+</div>

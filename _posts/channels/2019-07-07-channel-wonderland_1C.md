@@ -2,7 +2,7 @@
 title: Зазеркалье 1С
 date: 2019-07-07 00:00:00 +/-TTTT
 description: Неофициальный канал технологического блога 1С "Заметки из Зазеркалья".
-media_subpath: /assets/posts/channel-wonderland_1C/
+media_subpath: /assets/posts/channels/wonderland_1C/
 categories: [Каналы]
 tags: [1С, Каналы]
 image:

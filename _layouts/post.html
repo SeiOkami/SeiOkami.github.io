@@ -102,12 +102,28 @@ tail_includes:
           {% include read-time.html content=content prompt=true lang=lang %}
         </div>
       </div>
+      
+
+
     </div>
   </header>
+
+  <!-- SeiOkami - links -->
+  {% if page.links.top == true %}
+    <br>
+    {% include post_links.html%}
+  {% endif %}
+  <!-- SeiOkami - links -->
 
   <div class="content">
     {{ content }}
   </div>
+
+  <!-- SeiOkami - links -->
+  {% if page.links.bottom == true %}
+    {% include post_links.html%}
+  {% endif %}
+  <!-- SeiOkami - links -->
 
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->

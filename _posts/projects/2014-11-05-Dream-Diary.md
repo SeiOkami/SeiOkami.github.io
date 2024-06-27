@@ -2,11 +2,21 @@
 title: Дневник Сновидений
 date: 2014-11-05 09:21:00 +/-TTTT
 description: Конфигурация для ведения дневника сновидений с индивидуальной статистикой
-media_subpath: /assets/posts/2014-11-05-Dream-Diary/
+media_subpath: /assets/posts/projects/Dream-Diary/
 categories: [Проекты]
 tags: [1С, Проекты, Желтый Чайник 1С, Архив]
 image:
   path: cover.png
+links:
+  top: true
+  bottom: true
+  values:
+  - name: Описание на Инфостарт
+    url: https://infostart.ru/1c/reports/310820/?ref=1159
+  - name: Файл обработки
+    url: /assets/posts/projects/Dream-Diary/ДневникСновидений.7z
+  - name: Архив на Яндекс.Диск
+    url: https://disk.yandex.ru/d/FZ75ucEhLsTsOg
 ---
 
 Представляю вашему вниманию довольно специфичную конфигурацию: Дневник Сновидений. Думаю, что уже по названию понятно, что она нужна для записи и хранения сновидений, коих у каждого из нас множество. Но это не основная цель. Дело в том, что она "заточена" под практику Осознанных Сновидений. Для тех, кто впервые об этом слышит [ссылка на Вики](https://ru.wikipedia.org/wiki/Осознанные_сновидения)

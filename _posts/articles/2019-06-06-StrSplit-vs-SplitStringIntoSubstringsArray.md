@@ -2,16 +2,20 @@
 title: Чем расщепить или СтрРазделить() VS РазложитьСтрокуВМассивПодстрок()
 date: 2019-06-06 10:51:00 +/-TTTT
 description: Сравнение методов по "расщеплению" строк Какой и когда использовать? Платформенный или БСП? Приходим к выводу - и тот и другой
-media_subpath: /assets/posts/2019-06-06-StrSplit-vs-SplitStringIntoSubstringsArray/
+media_subpath: /assets/posts/articles/2019-06-06-StrSplit-vs-SplitStringIntoSubstringsArray/
 categories: [Статьи]
 tags: [1С, Статьи, Желтый Чайник 1С]
 image:
   path: cover.png
+links:
+  top: true
+  bottom: true
+  values:
+  - name: Статья на Инфостарт
+    url: https://infostart.ru/1c/articles/1072819/?ref=1159
 ---
 
 ## Введение
-
-[Статья на Infostart](https://infostart.ru/1c/articles/1072819/?ref=1159)
 
 В случаях, когда нужно разбить строку на части, чаще всего используется один из методов:
 

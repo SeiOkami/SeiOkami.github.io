@@ -2,11 +2,17 @@
 title: Сортируем ДанныеФормыДерево на клиенте
 date: 2019-06-18 01:22:00 +/-TTTT
 description: Иногда так хочется, но нечем...
-media_subpath: /assets/posts/2019-06-18-sort-FormDataTree-on-client/
+media_subpath: /assets/posts/notes/2019-06-18-sort-FormDataTree-on-client/
 categories: [Заметки]
-tags: [1С, Заметки, Желтый Чайник 1С, Метод]
+tags: [1С, Заметки, Желтый Чайник 1С]
 image:
   path: cover.png
+links:
+  top: true
+  bottom: true
+  values:
+  - name: Заметка на Инфостарт
+    url: https://infostart.ru/1c/articles/1078137/?ref=1159
 ---
 
 У `ДанныеФормыКоллекция` для сортировки есть специальный метод `Сортировать()`. Он доступен на клиенте и, хоть и делает вызов сервера, но, по понятным причинам, срабатывает крайне быстро.
