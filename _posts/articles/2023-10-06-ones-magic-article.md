@@ -1,6 +1,6 @@
 ---
 title: 1С-ная магия
-date: 2023-06-27 10:00:00 +/-TTTT
+date: 2023-10-06 10:00:00 +/-TTTT
 description: Мы рассмотрим разные примеры поведения кода 1С...
 media_subpath: /assets/posts/articles/2023-10-06-ones-magic-article/
 categories: [Статьи]

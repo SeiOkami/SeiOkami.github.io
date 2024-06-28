@@ -11,4 +11,6 @@ image:
 
 Основной мой канал по теме разработки в 1С  
 Код, статьи, заметки, лайфхаки и так далее  
-[@JuniorOneS](https://t.me/JuniorOneS)
+
+- [@JuniorOneS](https://t.me/JuniorOneS)
+- [Ссылка на YouTube](https://www.youtube.com/@JuniorOneS)

@@ -1,5 +1,5 @@
 ---
-title: (мемасики) Что это за говно-пауза?
+title: (мемасики) недоПауза()
 date: 2023-04-24 10:00:00 +/-TTTT
 media_subpath: /assets/posts/memes/
 categories: [Мемасики]

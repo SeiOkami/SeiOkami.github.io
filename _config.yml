@@ -19,7 +19,7 @@ title: Черненко Виталий # the main title
 tagline: Желтый чайник 1С # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Личный блог со всеми статьями, заметкам, проектами и так далее
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: SeiOkami # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: kosotomik # change to your twitter username
 
 social:
   # Change to your full name.
@@ -40,6 +40,11 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/SeiOkami # change to your github homepage
     - https://www.linkedin.com/in/SeiOkami
+    - https://x.com/kosotomik
+    - https://t.me/JuniorOneS
+    - https://t.me/SeiOkami
+    - https://infostart.ru/profile/309462/
+    - https://habr.com/ru/users/SeiOkami/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -93,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/posts/general/chernenko_vitaliy.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
