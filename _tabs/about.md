@@ -6,7 +6,7 @@ order: 4
 
 # Автор
 
-![](/assets/posts/general/chernenko_vitaliy.png){: .right }{: w="300" h="300" }
+![](/assets/posts/general/chernenko_vitaliy.png){: w="300" h="300" }
 
 - Черненко Виталий
 - Разрабатываю на 1С и публикуюсь на Инфостарт с 2012 года
