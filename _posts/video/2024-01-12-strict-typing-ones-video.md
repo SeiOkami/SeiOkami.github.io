@@ -16,6 +16,8 @@ links:
     url: https://youtu.be/71LzxeFUe7Q
   - name: Пост в Telegram
     url: https://t.me/JuniorOneS/609
+  - name: Архив на Яндекс.Диск
+    url: https://disk.yandex.ru/d/IjNXNLDvYXVV2w
 ---
 
 {% include embed/youtube.html id='71LzxeFUe7Q' %}
