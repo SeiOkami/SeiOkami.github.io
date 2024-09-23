@@ -15,7 +15,7 @@ links:
   - name: Код на FastCode
     url: https://fastcode.im/Templates/7426
   - name: Пост в Telegram
-    url: https://t.me/JuniorOneS/108
+    url: https://t.me/JuniorOneS/127
 ---
 
 Предлагаю свою версию решения этой задачки 👌
