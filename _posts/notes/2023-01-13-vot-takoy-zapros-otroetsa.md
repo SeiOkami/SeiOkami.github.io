@@ -1,5 +1,5 @@
 ---
-title: Скрытый тип "ОсновнойЭлементФормы"
+title: Недокументированные "#" в запросах
 date: 2023-01-13 01:22:00 +/-TTTT
 media_subpath: /assets/posts/notes/2023-01-13-vot-takoy-zapros-otroetsa/
 categories: [Заметки]
